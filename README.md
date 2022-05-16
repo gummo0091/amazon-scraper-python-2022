@@ -1,4 +1,4 @@
-# Amazon Scraper: 2022
+# Amazon Product Scraper 2022
 
 [<img src="https://img.shields.io/static/v1?label=&message=Python&color=blue" />](https://github.com/topics/python) [<img src="https://img.shields.io/static/v1?label=&message=Web Scraping&color=orange" />](https://github.com/topics/web-scraping) [<img src="https://img.shields.io/static/v1?label=&message=Amazon&color=yellow" />](https://github.com/topics/amazon)
 
